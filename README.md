@@ -15,7 +15,8 @@ In this repository, we provide essential code for the UUV hardware deployment de
 Additional notes:
 
 - We use the Arduino API (C++) to drive the ESP32 control board.
-- Python scripts are executed on the computer side for serial communication. With proper serial configuration, this Python code can also be used on single-board computers (SBCs) such as Raspberry Pi or Jetson Nano. Additionally, if you need to drive the LLM, ensure that the SBC has internet access.
+- Python scripts are executed on the computer side for serial communication. With proper serial configuration, this Python code can also be used on single-board computers (SBCs) such as Raspberry Pi or Jetson Nano. Additionally, if you need to call the LLM, ensure that the SBC has internet access.
+- The prompt of our LLM workflow refers to `python/prompt.py`.
 
 ## Get Started - ESP32
 
