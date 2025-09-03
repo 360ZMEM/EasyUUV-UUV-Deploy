@@ -6,7 +6,7 @@ This repository contains code implementation for hardware deployment of the pape
 
 The RL policy training and simulation code repository refers to [**HERE**](https://github.com/360ZMEM/EasyUUV-Isaac-Simulation).
 
-<这里也放图片>
+![intro](README.assets/intro.png)
 
 ## Introduction
 
