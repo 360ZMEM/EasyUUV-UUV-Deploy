@@ -1,6 +1,6 @@
 # EasyUUV-UUV-Deploy
 
-[![WebSite](https://img.shields.io/badge/Github_Page-Supp_Material-77DDFF.svg)](https://360zmem.github.io/easyuuv/) [![WebSite](https://img.shields.io/github/last-commit/360ZMEM/EasyUUV-UUV-Deploy?color=green)](https://github.com/360ZMEM/EasyUUV-UUV-Deploy)
+[![WebSite](https://img.shields.io/badge/Github_Page-PDF-77DDFF.svg)](https://360zmem.github.io/easyuuv/) [![WebSite](https://img.shields.io/github/last-commit/360ZMEM/EasyUUV-UUV-Deploy?color=green)](https://github.com/360ZMEM/EasyUUV-UUV-Deploy)
 
 This repository contains code implementation for hardware deployment of the paper "EasyUUV: An LLM-Enhanced Universal and Lightweight Sim-to-Real Reinforcement Learning Framework for UUV Attitude Control".
 
